@@ -1,13 +1,29 @@
 
-console.log('hello world');
+// console.log('hello world');
 
 //values and variables
 
-var myName="vinod bahadur thapa";
+// var myName="vinod bahadur thapa";
 
-console.log(myName);
+// console.log(myName);
+
+//Data type in javascript
+
+// 1 : "undefined"
+// 2 : "boolean"
+// 3 : "number"
+// 4 : "string"
+// 5 : "bigint"
+// 6 : "symbol"
+
+// console.log(10+"20");
+
+// console.log(9-"4");//bug
+
+// console.log("Java "+"Script"); 
+
+console.log("Java "-"Script"); // NaN
 
 
-let a=4;
-let b=9;
-console.log(a+b);
+
+
