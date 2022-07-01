@@ -24,6 +24,4 @@
 
 console.log("Java "-"Script"); // NaN
 
-
-
-
+ 
