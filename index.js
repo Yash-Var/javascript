@@ -24,4 +24,6 @@
 
 console.log("Java "-"Script"); // NaN
 
- 
+ var iAmUseLess=null;
+ console.log(iAmUseLess);
+ console.log(typeof(iAmUseLess));//bug
