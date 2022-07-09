@@ -9,12 +9,12 @@
 
 //Data type in javascript
 
-// 1 : "undefined"
-// 2 : "boolean"
-// 3 : "number"
-// 4 : "string"
-// 5 : "bigint"
-// 6 : "symbol"
+1 : "undefined"
+2 : "boolean"
+3 : "number"
+4 : "string"
+5 : "bigint"
+6 : "symbol"
 
 // console.log(10+"20");
 
