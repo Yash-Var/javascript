@@ -16,11 +16,11 @@
 5 : "bigint"
 6 : "symbol"
 
-// console.log(10+"20");
+console.log(10+"20");
 
-// console.log(9-"4");//bug
+console.log(9-"4");//bug
 
-// console.log("Java "+"Script"); 
+console.log("Java "+"Script"); 
 
 console.log("Java "-"Script"); // NaN
 
