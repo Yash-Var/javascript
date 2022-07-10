@@ -16,14 +16,22 @@
 // 5 : "bigint"
 // 6 : "symbol"
 
-console.log(10+"20");
+// console.log(10+"20");
 
-console.log(9-"4");//bug
+// console.log(9-"4");//bug
 
 // console.log("Java "+"Script"); 
 
-console.log("Java "-"Script"); // NaN
+// console.log("Java "-"Script"); // NaN
 
- var iAmUseLess=null;
- console.log(iAmUseLess);
- console.log(typeof(iAmUseLess));//bug
+//  var iAmUseLess=null;
+//  console.log(iAmUseLess);
+//  console.log(typeof(iAmUseLess));//bug
+
+//  var number=9761268926;
+// var name='yash';
+// console.log(isNaN(name));
+// console.log(isNaN(number));
+
+//expression and operator
+
