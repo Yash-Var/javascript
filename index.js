@@ -34,4 +34,19 @@
 // console.log(isNaN(number));
 
 //expression and operator
+// var x=10;
+// var y=10;
 
+// console.log("is x and y are equal or not "+ x==y);
+
+//both have different output
+
+// console.log( x==y);
+
+
+//Important 
+
+
+// var num=15;
+// var newNum=num++ + 5;  // (num + 5)
+// console.log(newNum);
