@@ -48,5 +48,10 @@
 
 
 // var num=15;
-// var newNum=num++ + 5;  // (num + 5)
-// console.log(newNum);
+// // var newNum=num++ + 5;  // (num + 5)
+// var important= ++num + 5;
+// console.log(important);
+// // console.log(newNum);
+
+
+
