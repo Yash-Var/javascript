@@ -62,3 +62,4 @@
 //exponentiation operator
 
 console.log(3**3);
+console.log(10**-1);
