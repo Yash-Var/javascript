@@ -68,16 +68,28 @@
 // console.log(10+" yash varshney");
 
 //swap to number
-var a=10;
-var b=5;
+// var a=10;
+// var b=5;
 
 
 // var temp=b;
 // b=a;
 // a=temp;
 
-a=a+b;
-b=a-b;
-a=a-b;
-console.log(a);
-console.log(b); 
+// a=a+b;
+// b=a-b;
+// a=a-b;
+// console.log(a);
+// console.log(b);
+
+
+//difference betwwen == and ===
+
+// var num1=5;
+// var num2='5';
+
+
+// console.log(num1==num2);
+
+
+// console.log(num1===num2);
