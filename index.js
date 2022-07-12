@@ -70,8 +70,14 @@
 //swap to number
 var a=10;
 var b=5;
-var temp=b;
-b=a;
-a=temp;
+
+
+// var temp=b;
+// b=a;
+// a=temp;
+
+a=a+b;
+b=a-b;
+a=a-b;
 console.log(a);
 console.log(b);
