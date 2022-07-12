@@ -61,5 +61,17 @@
 
 //exponentiation operator
 
-console.log(3**3);
-console.log(10**-1);
+// console.log(3**3);
+// console.log(10**-1);
+
+
+// console.log(10+" yash varshney");
+
+//swap to number
+var a=10;
+var b=5;
+var temp=b;
+b=a;
+a=temp;
+console.log(a);
+console.log(b);
