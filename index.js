@@ -94,3 +94,6 @@
 // console.log();
 // console.log(num1===num2);
 
+//truly and falsy value in javascript 
+//in javascript there are total 5 falsy values
+// 0,"",undefined,null,NaN,false
