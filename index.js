@@ -56,4 +56,9 @@
 // console.log(!false);
 
 //string concatenation (operations)
-console.log("hello "+"world "+"yash varshney");
+// console.log("hello "+"world "+"yash varshney");
+
+
+//exponentiation operator
+
+console.log(3**3);
