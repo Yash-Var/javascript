@@ -109,9 +109,9 @@
 
 //A javascript function is a block of code designed to perform a particular task.
 
-function sum(){
-    var a=10,b=20;
+function sum( a,b){
+    
     var total=a+b;
     return total;
 }
-console.log(sum());
+console.log(sum(10,30));
