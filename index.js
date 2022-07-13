@@ -100,4 +100,7 @@
 if(NaN){
     console.log("yash varshney");
 }else
-console.log("akshat varshney");
+{
+
+    console.log("akshat varshney");
+}
