@@ -94,7 +94,7 @@
 // console.log();
 // console.log(num1===num2);
 
-//truly and falsy value in javascript 
+//truly and falsy value in javascript ~
 //in javascript there are total 5 falsy values
 // 0,"",undefined,null,NaN,false
 // if(NaN){
@@ -104,3 +104,14 @@
 
 //     console.log("akshat varshney");
 // }
+
+//function in javascript
+
+//A javascript function is a block of code designed to perform a particular task.
+
+function sum(){
+    var a=10,b=20;
+    var total=a+b;
+    return total;
+}
+console.log(sum());
