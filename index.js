@@ -97,3 +97,7 @@
 //truly and falsy value in javascript 
 //in javascript there are total 5 falsy values
 // 0,"",undefined,null,NaN,false
+if(NaN){
+    console.log("yash varshney");
+}else
+console.log("akshat varshney");
