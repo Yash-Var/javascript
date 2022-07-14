@@ -147,6 +147,14 @@
 // the measure differnce bettween let and var are scope var is function scope and let is block scope.
 
 
+//templates literals
+
+for(let num=1;num<=10;num++){
+    let tableof=12;
+    console.log(`${tableof}*${num}=${tableof*num}`);
+}
+
+
 
 
     
