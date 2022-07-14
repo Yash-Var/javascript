@@ -140,6 +140,11 @@
 //7- ARROW FUNCTIONS
 //8- SPREAD OPERATORS
 
+//Now its time to moderm javascript 
+
+// var --> function scope 
+// let and const are --> Block Scope
+
 
 
 
