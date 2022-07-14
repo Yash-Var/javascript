@@ -155,11 +155,13 @@
 // }
 
 //Default Parameters 
-function mult(a=7,b=5){
-    return a*b;
-}
+// function mult(a=7,b=5){
+//     return a*b;
+// }
 
-console.log(mult(5));
+// console.log(mult(5));
+
+
 
 
 
