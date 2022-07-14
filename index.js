@@ -162,6 +162,13 @@
 // console.log(mult(5));
 
 
+//fat arror functions
+
+const sum=(a,b) => `the sum of the two number is ${(a)+(b)} `;
+
+console.log(sum(50,90));
+
+
 
 
 
