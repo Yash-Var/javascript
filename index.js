@@ -144,6 +144,7 @@
 
 // var --> function scope 
 // let and const are --> Block Scope
+// the measure differnce bettween let and var are scope var is function scope and let is block scope.
 
 
 
