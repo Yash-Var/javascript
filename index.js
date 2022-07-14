@@ -119,9 +119,16 @@
 
 //Anonymous Functions are the functions which have no name 
 
-var funE=function(a,b){
-    return a+b;
-}
-console.log(funE(5,15));
+// var funE=function(a,b){
+//     return a+b;
+// }
+// console.log(funE(5,15));
+
+
+
+// WELCOME TO ECMAScript
+
+
+
 
  
