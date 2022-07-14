@@ -149,10 +149,17 @@
 
 //templates literals
 
-for(let num=1;num<=10;num++){
-    let tableof=12;
-    console.log(`${tableof}*${num}=${tableof*num}`);
+// for(let num=1;num<=10;num++){
+//     let tableof=12;
+//     console.log(`${tableof}*${num}=${tableof*num}`);
+// }
+
+//Default Parameters 
+function mult(a=7,b=5){
+    return a*b;
 }
+
+console.log(mult(5));
 
 
 
