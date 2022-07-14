@@ -115,3 +115,13 @@
 //     return total;
 // }
 // console.log(sum(10,30)); //10 and 40 are parameter
+
+
+//Anonymous Functions are the functions which have no name 
+
+var funE=function(a,b){
+    return a+b;
+}
+console.log(funE(5,15));
+
+ 
