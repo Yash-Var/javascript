@@ -168,6 +168,9 @@ const sum=(a,b) => `the sum of the two number is ${(a)+(b)} `;
 
 console.log(sum(50,90));
 
+array in javascript 
+
+  
 
 
 
