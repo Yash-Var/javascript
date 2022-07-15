@@ -194,7 +194,8 @@
 
 
 //index of 🔢
-
+let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+console.log(data.indexOf("thapa"));
 
     
 
