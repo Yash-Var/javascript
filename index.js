@@ -190,6 +190,7 @@
 //     console.log(element+"index :"+index +" "+array);
 //  });
 
+//Searching and filter in am array 
 
 
 
