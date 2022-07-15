@@ -184,11 +184,12 @@
     // }
     
     //for each loop
-    let a=['yash','varshney','akshat','ram','prashant'];
+//     let a=['yash','varshney','akshat','ram','prashant'];
 
-a.forEach(function(element,index,array){
-    console.log(element+"index :"+index +" "+array);
-});
+// a.forEach((element,index,array) =>{
+//     console.log(element+"index :"+index +" "+array);
+//  });
+
 
 
 
