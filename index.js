@@ -194,8 +194,21 @@
 
 
 //index of 🔢
+// let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+// console.log(data.indexOf("thapa",3));
+
+
+
+//Last Index of 🔢
+
+// let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+// console.log(data.lastIndexOf("thapa"));
+
+//includes 🔢
+
+
 let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
-console.log(data.indexOf("thapa"));
+console.log(data.includes("thapa"));
 
     
 
