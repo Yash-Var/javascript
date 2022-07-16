@@ -194,8 +194,8 @@ for(let  Element of a ){
 
 
 //index of 🔢
-let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
-console.log(data.indexOf("thapa",3));
+// let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+// console.log(data.indexOf("thapa",3));
 
 
 
