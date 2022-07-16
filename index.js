@@ -201,14 +201,14 @@
 
 //Last Index of 🔢
 
-// let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
-// console.log(data.lastIndexOf("thapa"));
+let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+console.log(data.lastIndexOf("thapa"));
 
 //includes 🔢
 
 
-let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
-console.log(data.includes("thapa"));
+// let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+// console.log(data.includes("thapa"));
 
     
 
