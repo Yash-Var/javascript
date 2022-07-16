@@ -183,7 +183,7 @@
     //     console.log(Element);
     // }
     
-    //for each loop
+//     for each loop
 //     let a=['yash','varshney','akshat','ram','prashant'];
 
 // a.forEach((element,index,array) =>{
@@ -194,8 +194,8 @@
 
 
 //index of 🔢
-// let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
-// console.log(data.indexOf("thapa",3));
+let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+console.log(data.indexOf("thapa",3));
 
 
 
