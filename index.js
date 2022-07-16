@@ -179,9 +179,9 @@
 // }
 
 //for of loop
-// for(let  Element of a ){
-    //     console.log(Element);
-    // }
+for(let  Element of a ){
+        console.log(Element);
+    }
     
 //     for each loop
 //     let a=['yash','varshney','akshat','ram','prashant'];
