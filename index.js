@@ -110,7 +110,7 @@
 //A javascript function is a block of code designed to perform a particular task.
 
 // function sum( a,b){ // a and b are arguments 
-    
+
 //     var total=a+b;
 //     return total;
 // }
@@ -182,7 +182,7 @@
 // for(let  Element of a ){
 //         console.log(Element);
 //     }
-    
+
 //     for each loop
 //     let a=['yash','varshney','akshat','ram','prashant'];
 
@@ -210,13 +210,11 @@
 // let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
 // console.log(data.includes("thapa"));
 
-    
+
 //filtration in javascript
- 
- 
- const prices =[200,300,350,400,500,600];
- //price<400
- const findElem = prices.find((currentValue)=>{
-    return currentValue<400;
- });
- console.log(findElem);
+
+
+const prices = [200, 300, 350, 400, 500, 600];
+//price<400
+const findElem = prices.find((currentValue) => currentValue < 400);
+console.log(findElem);
