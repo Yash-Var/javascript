@@ -173,15 +173,15 @@
 // console.log(a.length);
 
 //for in loop
-let a=['yash','varshney','akshat','ram','prashant'];
-for(let  Element in a ){
-    console.log(Element);
-}
+// let a=['yash','varshney','akshat','ram','prashant'];
+// for(let  Element in a ){
+//     console.log(Element);
+// }
 
 //for of loop
-for(let  Element of a ){
-        console.log(Element);
-    }
+// for(let  Element of a ){
+//         console.log(Element);
+//     }
     
 //     for each loop
 //     let a=['yash','varshney','akshat','ram','prashant'];
@@ -201,8 +201,8 @@ for(let  Element of a ){
 
 //Last Index of 🔢
 
-let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
-console.log(data.lastIndexOf("thapa"));
+// let data=["vinod","bahadur","thapa","thapatechnical","thapa"];
+// console.log(data.lastIndexOf("thapa"));
 
 //includes 🔢
 
