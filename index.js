@@ -211,5 +211,7 @@
 // console.log(data.includes("thapa"));
 
     
+//filtration in javascript
+
 
  
