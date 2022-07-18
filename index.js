@@ -226,9 +226,14 @@
 
 //filter in javascript
 
-const prices = [200, 300, 350, 400, 500, 600];
-//price<400
-const findElem = prices.filter((currentValue) => currentValue < 400);
-console.log(findElem);
+// const prices = [200, 300, 350, 400, 500, 600];
+// //price<400
+// // const findElem = prices.filter((currentValue) => currentValue < 400);
+// console.log(findElem);
+
+//sort in javascript
+
+const month=['march','jan','feb','dec','nov'];
+console.log(month.sort());
 
   
