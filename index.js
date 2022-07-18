@@ -211,7 +211,7 @@
 // console.log(data.includes("thapa"));
 
 
-//filtration in javascript
+//filtration in javascript 🔢
 
 
 // const prices = [200, 300, 350, 400, 500, 600];
@@ -224,16 +224,38 @@
 // const findElem = prices.findIndex((currentValue) => currentValue < 400);
 // console.log(findElem);
 
-//filter in javascript
+//filter in javascript 🔢
 
 // const prices = [200, 300, 350, 400, 500, 600];
 // //price<400
 // // const findElem = prices.filter((currentValue) => currentValue < 400);
 // console.log(findElem);
 
-//sort in javascript
+//sort in javascript 🔢
 
-const month=['march','jan','feb','dec','nov'];
-console.log(month.sort());
+// const month=['march','jan','feb','dec','nov'];
+// console.log(month.sort());
+
+
+// const prices = [1,30,4,21,100000,99];
+// console.log(prices.sort());
+
+//perfrom CRUD 🔢
+
+
+//push 👍
+// const animals=['pigs','goats','sheep'];
+// const count=animals.push('chicken');
+// console.log(animals);
+// console.log(count);
+
+//unshift 👍
+// const animals=['pigs','goats','sheep'];
+// const count=animals.unshift('chicken' ,'cow','dogs');
+// console.log(animals);
+// console.log(count);
+
+
+
 
   
