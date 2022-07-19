@@ -287,6 +287,7 @@
 // console.log(newArray);
   
 
+// Find the square root of each element 
 
 
 
