@@ -273,6 +273,22 @@
 
 //Map method in javascript 👍
 
+// const array1=[1,4,9,16,25];
+// let newArray=array1.map((currentValue,index,arr)=>
+//  currentValue>9
+// );
+
+// console.log(newArray);
+// const array1=[1,4,9,16,25];
+// let newArray=array1.map((currentValue,index,arr)=>
+//  `index no = ${index} and the value is ${currentValue} belong to ${arr}`
+// );
+
+// console.log(newArray);
+  
+
+
+
 
 
 
