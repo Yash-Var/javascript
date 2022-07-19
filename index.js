@@ -255,6 +255,25 @@
 // console.log(animals);
 // console.log(count);
 
+//pop 💩
+// const animals=['pigs','goats','sheep'];
+// const count=animals.pop();
+// console.log(animals);
+// console.log(count);
+
+
+//splice 👍
+// const month=['march','jan','feb','dec','nov'];
+// // const newmonth=month.splice(4,0,"yash");
+// // const update=month.splice(5,5,"varshney");
+// const update=month.splice(4,1);
+// console.log(update);
+// console.log(month);
+
+
+
+
+
 
 
 
