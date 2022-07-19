@@ -271,6 +271,9 @@
 // console.log(month);
 
 
+//Map method in javascript 👍
+
+
 
 
 
