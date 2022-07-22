@@ -285,28 +285,37 @@
 // );
 
 // console.log(newArray);
-  
+
 
 // Find the square root of each element 
 
 // let arr=[25,36,49,64,81];
-  
+
 // let arrSqr=arr.map((currentValue)=>
 //  Math.sqrt(currentValue)
 // );
 // console.log(arrSqr);
 
-let arr=[2,3,4,6,8];
-let arrGre=arr.map((currentValue)=>{
-return currentValue*2;
-}).filter((currentValue)=>{
-    return currentValue>10;
-});
-console.log(arrGre);
+// let arr1 = [2, 3, 4, 6, 8];
+// let arrGre = arr1.map((currentValue) => currentValue * 2
+// ).filter((currentValue) => currentValue > 10).reduce((accumulator,currentValue)=>accumulator+currentValue);
+// console.log(arrGre);
+
+
+//Reduce Method 🔢
+// It is uase to flattern the 2d and 3d array into 1d array
+
+// let arr=[5,6,2];
+
+// let sum=arr.reduce((accumulator,curElem,index,arr)=>{
+// return accumulator+curElem;
+// });
+// console.log(sum);
 
 
 
 
 
 
-  
+
+
