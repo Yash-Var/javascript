@@ -289,7 +289,12 @@
 
 // Find the square root of each element 
 
-
+let arr=[25,36,49,64,81];
+  
+let arrSqr=arr.map((currentValue)=>
+ Math.sqrt(currentValue)
+);
+console.log(arrSqr);
 
 
 
