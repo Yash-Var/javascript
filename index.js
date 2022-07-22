@@ -323,11 +323,25 @@
   // Extracting string Character
   // Other useful methods of String 
 
-  
+//   let myName="yash varshney";
+//   console.log(myName.length);
 
 
+// 🎱 Escape Character
+
+// let any1 ="my name is \"yash varshney\" ";
+
+// console.log(any1);
 
 
+// let any ='my name is "yash varshney" ';
 
+// console.log(any);
+
+// 🎱Finding String in String
+
+// const name="i am yash varshney";
+
+// console.log(name.indexOf("yash"));
 
 
