@@ -313,7 +313,18 @@
 // console.log(sum);
 
 
+  // 👍 String in javascript 
+
+  // Escape Character 
+  // Finding a String in a String 
+  // searching for a String in a String 
+  // Extracting String Parts
+  // Replacing String content
+  // Extracting string Character
+  // Other useful methods of String 
+
   
+
 
 
 
