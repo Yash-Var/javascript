@@ -228,7 +228,7 @@
 
 // const prices = [200, 300, 350, 400, 500, 600];
 // //price<400
-// // const findElem = prices.filter((currentValue) => currentValue < 400);
+// const findElem = prices.filter((currentValue) => currentValue < 400);
 // console.log(findElem);
 
 //sort in javascript 🔢
