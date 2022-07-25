@@ -313,15 +313,15 @@
 // console.log(sum);
 
 
-  // 👍 String in javascript 
+// 👍 String in javascript 
 
-  // Escape Character 
-  // Finding a String in a String 
-  // searching for a String in a String 
-  // Extracting String Parts
-  // Replacing String content
-  // Extracting string Character
-  // Other useful methods of String 
+// Escape Character 
+// Finding a String in a String 
+// searching for a String in a String 
+// Extracting String Parts
+// Replacing String content
+// Extracting string Character
+// Other useful methods of String 
 
 //   let myName="yash varshney";
 //   console.log(myName.length);
@@ -351,7 +351,24 @@
 // slice() extract a part of a string and returns the extracted part to the new string
 //methods takes two parameters the start position and the end position the start parameter is include but end parmeter is not include.  
 
-let str="Apple,banana, kiwi";
-let res=str.slice(0,5);
+// let str="Apple, banana, kiwi";
+// let res=str.slice(0,5);
+// let count=str.slice(7,-2);
+// console.log(res + count);
+
+
+// 🔢 Display only 280 charcter of a string like the one used in twitter
+// let myTweets= "wndjwduhewhfgewufguhrfheurhfu3hfuhqwufhwbgfhbwhjdfbhjsbdfhgbvhgfbvhdsbbadsnhfhgdsvfhvsdshfbhdsbfhgbwhgfvhvwfhvsahdf ghds cv scb cb  cna chdbcvhhbvjbejfbjhewfueuhfhuqeya sh varshney bSGYUGQS Rhuahsipepsomajhhdhwjdhbhwjd  bdcbwdcbbhjhhuehfuhefuheufeu  yahhgdwjwheb  wbdhwegudgeuwhu yash varshney pepsi is a good coedr the hchudh cosechef jsdhwhdheufhiuehfhuf bweuhuhewuihfue  bwhehweihyfuiehufhjhbfjhsbdc hbduhggeqfuyerfiuygerf eurfihgfrgerygfyuerfyugeyfgywegfyewgfyugewyfgyewgfygewygfyuewgfyuewfgjcbnsbdcvnbcvmzxnbchjdsgjgwefyuewiruweytroiuwrqwewertyuiiooppnjjjaiiaiaooaoaoaoajjjjhjqwertyyuiioopplkkjjhhggffddssaazzxxccvvbbnnnmm,,,ll;;[]lsapxoksoijxoadcujhduvhuhdbnusuhurhgiuhrtghtrhgihreighiergiwerigitrgutrgiuoetr";
+
+//  let myactualtweets=myTweets.slice(0,280);
+//  console.log(myactualtweets);
+//  console.log(myactualtweets.length);
+
+//substring method 🔢
+
+let str="Apple, banana, kiwi";
+let res= str.substring(0,4);
 console.log(res);
+
+
 
