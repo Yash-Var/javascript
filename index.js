@@ -345,3 +345,13 @@
 // console.log(name.indexOf("yash"));
 
 
+//Extracting String parts 🔢
+
+//Slice method in string 
+// slice() extract a part of a string and returns the extracted part to the new string
+//methods takes two parameters the start position and the end position the start parameter is include but end parmeter is not include.  
+
+let str="Apple,banana, kiwi";
+let res=str.slice(0,5);
+console.log(res);
+
