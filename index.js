@@ -366,9 +366,13 @@
 
 //substring method 🔢
 
-let str="Apple, banana, kiwi";
-let res= str.substring(0,4);
-console.log(res);
+// let str="Apple, banana, kiwi";
+// let res= str.substring(0,4);
+// console.log(res);
 
+//substr 🔢
+let str="Apple, banana, kiwi";
+let res= str.substr(-4);
+console.log(res);
 
 
