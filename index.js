@@ -379,7 +379,7 @@
 
 //Replacing string content() 👍
 
-let myname="i am yash varshney";
-
-
+// let myname="i am yash varshney";
+// let res=myname.replace("yash", "akshat");
+// console.log(res);
 
