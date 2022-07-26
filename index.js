@@ -371,8 +371,15 @@
 // console.log(res);
 
 //substr 🔢
-let str="Apple, banana, kiwi";
-let res= str.substr(-4);
-console.log(res);
+
+
+// let str="Apple, banana, kiwi";
+// let res= str.substr(-4);
+// console.log(res);
+
+//Replacing string content() 👍
+
+let myname="i am yash varshney";
+
 
 
