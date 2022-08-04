@@ -388,6 +388,14 @@
 // Extracting String Characters 👍
 
 
+//CharAt 🔢
+// let str="HELLO WORLD";
+// console.log(str.charAt(0));
+
+//CharCodeAt 🔢
+
+let str="HELLO WORLD";
+console.log(str.charCodeAt(0));
 
 
 
