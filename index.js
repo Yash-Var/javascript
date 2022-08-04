@@ -394,8 +394,13 @@
 
 //CharCodeAt 🔢
 
-let str="HELLO WORLD";
-console.log(str.charCodeAt(0));
+// let str="HELLO WORLD";
+// console.log(str.charCodeAt(0));
+
+// trim method 👍
+
+let str="      HELLO WORLD       ";
+console.log(str.trim());
 
 
 
