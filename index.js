@@ -451,7 +451,26 @@
 
 // 🖕Maths Objects
 
-console.log(Math.PI);
+// console.log(Math.PI);
+
+// let num=10.265;
+// console.log(Math.round(num));
+
+// console.log(Math.trunc(-99.5));
+// console.log(Math.ceil(-99.5));
+// console.log(Math.floor(-99.1));
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
