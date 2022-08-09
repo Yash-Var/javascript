@@ -449,8 +449,9 @@
 // console.log(d.getSeconds());
 // console.log(d.getMilliseconds());
 
+// 🖕Maths Objects
 
-
+console.log(Math.PI);
 
 
 
