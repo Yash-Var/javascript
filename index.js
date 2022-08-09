@@ -426,8 +426,32 @@
 
 // console.log(Date.now());
 
-let Date_cur=new Date(2022,7,9,18,27,26,0);
-console.log(Date_cur.toLocaleString());
+// let Date_cur=new Date(2022,7,9,18,27,26,0);
+// console.log(Date_cur.toLocaleString());
+
+
+//Date Method 📅
+
+// let d=new Date();
+
+// console.log(d.toLocaleString());
+// console.log(d.getFullYear());
+// console.log(d.getMonth());
+// console.log(d.getDate());
+// console.log(d.getDay());
+
+// Time method ⏲️
+
+// let d=new Date();
+// console.log(d.getTime());
+// console.log(d.getHours());
+// console.log(d.getMinutes());
+// console.log(d.getSeconds());
+// console.log(d.getMilliseconds());
+
+
+
+
 
 
 
