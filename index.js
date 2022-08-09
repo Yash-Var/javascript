@@ -418,8 +418,19 @@
 
 // Date objects are created with the new Date() constructor.
 
-let currDate=new Date();
-console.log(currDate);
+// let currDate=new Date();
+// console.log(currDate.toString());
+// console.log(currDate.toLocaleString());
+
+// 📅 Date now give the millisecond in return 
+
+// console.log(Date.now());
+
+let Date_cur=new Date(2022,7,9,18,27,26,0);
+console.log(Date_cur.toLocaleString());
+
+
+
 
 
 
