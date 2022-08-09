@@ -399,8 +399,27 @@
 
 // trim method 👍
 
-let str="      HELLO WORLD       ";
-console.log(str.trim());
+// let str="      HELLO WORLD       ";
+// console.log(str.trim());
+
+
+ //converting a string into array 👍
+
+//  let txt="a,b,c,d,e,f";
+//  console.log(txt.split(","));
+//  console.log(txt.split(" "));
+
+
+//
+//
+//Date and time in javascript 🔢
+
+//Javascript Date objects represent a single moment in time in a platform-independent format. Date objects contains a number that rpresents milliseconds since 1 January 1970 UTC.
+
+// Date objects are created with the new Date() constructor.
+
+let currDate=new Date();
+console.log(currDate);
 
 
 
