@@ -17,6 +17,9 @@
             padding: 20px;
             font-size: larger;
         }
+        #result{
+            color: antiquewhite;
+        }
     </style>
 </head>
 
@@ -38,6 +41,21 @@
             <div id="result"></div>
         </div>
     </div>
+    <script>
+// const selectElement=()=>{
+//     const iceCream=document.getElementById('iceCreams').value;
+//     const ice=document.getElementById('ice').value;
+//     const result=document.getElementById('result');
+//     result.innerHTML=`Mr ${ice} select ${iceCream} ice-cream flavour`;
+// }
+const changed=document.querySelector('#iceCreams');
+changed.addEventListener('change',()=>{
+    const iceCream=document.getElementById('iceCreams').value;
+    const ice=document.getElementById('ice').value;
+    const result=document.getElementById('result');
+    result.innerHTML=`Mr ${ice} select ${iceCream} ice-cream flavour`;
+});
+    </script>
 </body>
 
 </html>
