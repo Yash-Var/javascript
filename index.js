@@ -465,9 +465,9 @@
 
 // Section 4 ways of writing events in javscript
 
+// input events 👍
 
-
-
+ 
 
 
 

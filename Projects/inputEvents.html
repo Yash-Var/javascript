@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Events</title>
+    <style>
+        body {
+            background: rgb(116, 140, 168);
+            text-align: center;
+            margin-top: 300px;
+            padding: 10px;
+        }
+        .main{
+            padding: 20px;
+            font-size: larger;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main-div">
+        <div class="main"> 
+            <label for="">Your Name 👉 </label>
+            <input type="text" name="" id="ice">
+            <br>
+            <label for="">Choose an ice creame flavour 😍
+                <select name="" id="iceCreams" onchange="selectElement()">
+                    <option value="">Select One ...</option>
+                    <option value="chocolate">Chocolate</option>
+                    <option value="sardine">Sardine</option>
+                    <option value="vanilla">Vanilla</option>
+                </select>
+            </label>
+            <br>
+            <div id="result"></div>
+        </div>
+    </div>
+</body>
+
+</html>
