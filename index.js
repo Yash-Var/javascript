@@ -461,7 +461,9 @@
 // console.log(Math.floor(-99.1));
 
 
+// Events 💞
 
+// Section 4 ways of writing events in javscript
 
 
 
