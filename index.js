@@ -20,7 +20,7 @@
 
 // console.log(9-"4");//bug
 
-// console.log("Java "+"Script"); 
+// console.log("Java "+"Script");
 
 // console.log("Java "-"Script"); // NaN
 
@@ -44,7 +44,7 @@
 // console.log( x==y);
 
 
-//Important 
+//Important
 
 
 // var num=15;
@@ -109,7 +109,7 @@
 
 //A javascript function is a block of code designed to perform a particular task.
 
-// function sum( a,b){ // a and b are arguments 
+// function sum( a,b){ // a and b are arguments
 
 //     var total=a+b;
 //     return total;
@@ -117,7 +117,7 @@
 // console.log(sum(10,30)); //10 and 40 are parameter
 
 
-//Anonymous Functions are the functions which have no name 
+//Anonymous Functions are the functions which have no name
 
 // var funE=function(a,b){
 //     return a+b;
@@ -131,18 +131,18 @@
 
 //ECS6 Updated on 2015
 
-//1- LET AND CONST 
+//1- LET AND CONST
 //2- TEMPLATES STRINGS
-//3- DEFAULT ARGUMENTS 
+//3- DEFAULT ARGUMENTS
 //4- REST OPERATORS
 //5- DESTRUCTURINGS
 //6- OBJECT PROPERTIES
 //7- ARROW FUNCTIONS
 //8- SPREAD OPERATORS
 
-//Now its time to moderm javascript 
+//Now its time to moderm javascript
 
-// var --> function scope 
+// var --> function scope
 // let and const are --> Block Scope
 // the measure differnce bettween let and var are scope var is function scope and let is block scope.
 
@@ -154,7 +154,7 @@
 //     console.log(`${tableof}*${num}=${tableof*num}`);
 // }
 
-//Default Parameters 
+//Default Parameters
 // function mult(a=7,b=5){
 //     return a*b;
 // }
@@ -168,7 +168,7 @@
 
 // console.log(sum(50,90));
 
-// array in javascript 
+// array in javascript
 // let a=['yash','varshney','akshat','ram','prashant'];
 // console.log(a.length);
 
@@ -190,7 +190,7 @@
 //     console.log(element+"index :"+index +" "+array);
 //  });
 
-//Searching and filter in am array 
+//Searching and filter in am array
 
 
 //index of 🔢
@@ -287,7 +287,7 @@
 // console.log(newArray);
 
 
-// Find the square root of each element 
+// Find the square root of each element
 
 // let arr=[25,36,49,64,81];
 
@@ -313,15 +313,15 @@
 // console.log(sum);
 
 
-// 👍 String in javascript 
+// 👍 String in javascript
 
-// Escape Character 
-// Finding a String in a String 
-// searching for a String in a String 
+// Escape Character
+// Finding a String in a String
+// searching for a String in a String
 // Extracting String Parts
 // Replacing String content
 // Extracting string Character
-// Other useful methods of String 
+// Other useful methods of String
 
 //   let myName="yash varshney";
 //   console.log(myName.length);
@@ -347,9 +347,9 @@
 
 //Extracting String parts 🔢
 
-//Slice method in string 
+//Slice method in string
 // slice() extract a part of a string and returns the extracted part to the new string
-//methods takes two parameters the start position and the end position the start parameter is include but end parmeter is not include.  
+//methods takes two parameters the start position and the end position the start parameter is include but end parmeter is not include.
 
 // let str="Apple, banana, kiwi";
 // let res=str.slice(0,5);
@@ -422,7 +422,7 @@
 // console.log(currDate.toString());
 // console.log(currDate.toLocaleString());
 
-// 📅 Date now give the millisecond in return 
+// 📅 Date now give the millisecond in return
 
 // console.log(Date.now());
 
@@ -466,6 +466,13 @@
 // Section 4 ways of writing events in javscript
 
 // input events 👍
+
+ // Timing Based events in javascript ⏲️
+
+ //1️⃣ setTImeout()
+ //2️⃣ setInterval()
+ //3️⃣ clearInterval()
+ //4️⃣ clearInterval()
 
  
 
