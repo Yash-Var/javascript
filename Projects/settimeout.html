@@ -27,7 +27,10 @@
             color: blue;
             background-color: rgb(157, 214, 190);
             cursor: pointer;
+        
         }
+        
+        
     </style>
 </head>
 <body>
@@ -36,20 +39,25 @@
             <p>Want to know my Name 💁‍♂️ ? </p>
             <p id="showMyName" ></p>
             <br>
-            <button id="btn">Click here</button>
+            <button id="btn" onclick="myvar=setTimeout(
+               yash ,5000
+            )">Click here</button>
+            <button id="btn" onclick="clearTimeout(myvar)">Stop</button>
         </div>
     </div>
     <script>
-       const btn=document.querySelector('#btn');
-       const showMyName=document.querySelector('#showMyName');
-       const NameShow=()=>{
-        showMyName.innerHTML="Loading...... 🔶";
-        setTimeout(()=>{
-            showMyName.innerHTML="Yash Varshney";
-        },1000);
-       }
-    btn.addEventListener('click',NameShow);
-    </script>
+        function yash(){
+        alert('yash varshney');}
+    //    const btn=document.querySelector('#btn');
+    //    const showMyName=document.querySelector('#showMyName');
+    //    const NameShow=()=>{
+    //     showMyName.innerHTML="Loading...... 🔶";
+    //     setTimeout(()=>{
+    //         showMyName.innerHTML="Yash Varshney";
+    //     },1000);
+    //    }
+    // btn.addEventListener('click',NameShow);
+    </script> 
 </body>
 
 </html>
