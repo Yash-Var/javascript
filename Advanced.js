@@ -11,3 +11,12 @@
 // };
 // let {firstName,lastName}=person;
 // console.log(firstName);
+
+// Dynamic properties
+
+let myname="yash";
+const data={
+    [myname]: "varshney",
+    [89+20]:"how are you"
+};
+console.log(data);
