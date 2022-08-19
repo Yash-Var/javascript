@@ -62,11 +62,11 @@
 // }
 // data.getdata();
 
-let data = {
-    fname: "yash",
-    lname: "varshney",
-    getdata: ()=> {
-       console.log(this);
-    }
-}
-data.getdata();
+// let data = {
+//     fname: "yash",
+//     lname: "varshney",
+//     getdata: ()=> {
+//        console.log(this);
+//     }
+// }
+// data.getdata();
